@@ -1,1 +1,1 @@
-C++ course 2012-13
+C++ course 2012
