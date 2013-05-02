@@ -7,7 +7,9 @@
 /------------/
 
  key1 value1
+
  key2 value2
+
  key3 value3 
 
 /-----------/
@@ -19,12 +21,18 @@
 /-------------/
 
  cat chat
+
  dog chien
+
  mouse souris
 
+
  dog
+
  chien
+
  cat
+
  chat
 
 /-------------/
